@@ -1,0 +1,8 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Commanding the Commandline",
+    "packageVersion": "0.0.1",
+    "useSass": false,
+    "deployToGithubPages": false
+  }
+}

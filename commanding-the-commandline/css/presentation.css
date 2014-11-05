@@ -1,0 +1,20 @@
+.console-green {
+    color: #017900;
+}
+
+.console-yellow {
+    color: #A59B00;
+}
+
+.reveal .headnote {
+    font-size: 0.7em;
+}
+
+.image-small {
+    width: 300px;
+}
+
+.side-by-side {
+   float:left;
+   width: 50%;
+}

@@ -1,0 +1,34 @@
+[
+    "index.md",
+    "introduction.md",
+    {
+        "filename": "ask-audience.md",
+        "attr": {
+            "data-background": "images/Audience.png"
+        }
+    },
+    "a-few-years-ago.md",
+    {
+        "filename": "simple-tool.md",
+        "attr": {
+            "data-background": "images/bushcraft-bg.jpg"
+        }
+    },
+    "editors-vim.md",
+    "editors-others.md",
+    "command-lines-windows.md",
+    "command-lines-other.md",
+    "terminals-windows.md",
+    "terminals-osx.md",
+    "terminals-linux.md",
+    "docker.md",
+    "tools.md",
+    {
+        "filename": "finish.md",
+        "attr": {
+            "data-background": "images/finish.jpg",
+            "data-background-repeat": "repeat",
+            "data-background-size": "225px"
+        }
+    }
+]
