@@ -13,6 +13,3 @@
     <br />
     Nano
 </div>
-
-
-note:

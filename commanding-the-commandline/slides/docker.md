@@ -5,7 +5,3 @@
 <br />
 <br />
 ![docker](images/docker.jpg)
-
-note:
-    - Docker - next gen virtualization
-    - Vagrant - scriptable/repeatable environments

@@ -4,4 +4,3 @@
 <br />
 <br />
 ![unix-meme](images/unix-meme-2.jpg)
-note:

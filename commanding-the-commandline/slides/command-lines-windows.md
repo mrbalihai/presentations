@@ -7,5 +7,3 @@
 <br />
 <br />
 ![unix-meme](images/unix-meme.jpg)
-note:
-    - Msysgit - ships with git
